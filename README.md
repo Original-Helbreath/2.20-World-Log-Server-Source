@@ -1,5 +1,7 @@
 # 2.20-World-Log-Server-Source
 
+> **Archived (2026-10-26).** The 2.20 servers are being recreated as two binaries, Login and World. This repo is kept as found in [2.20-Reference](https://github.com/Original-Helbreath/2.20-Reference) (`as-found/servers/2.20-World-Log-Server-Source/`); its open issues moved to `2.20-Login-Server-Source`.
+
 Source for the Helbreath World Log server - to be recreated.
 
 ## Contents
